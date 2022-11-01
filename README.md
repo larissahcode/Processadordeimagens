@@ -1,2 +1,0 @@
-# Processadordeimagens
-Projeto Bootcamp
